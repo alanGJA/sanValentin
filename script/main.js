@@ -4,7 +4,8 @@
 // ===============================
 
 // Fecha objetivo: 14 Febrero 00:00 (California)
-const unlockDate = new Date(Date.now() + 10000);
+const unlockDate = new Date("2026-02-14T00:00:00-08:00");
+
 
 
 // Obtener hora actual en California
