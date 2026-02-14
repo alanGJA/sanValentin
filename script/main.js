@@ -4,7 +4,8 @@
 // ===============================
 
 // Fecha objetivo: 14 Febrero 00:00 (California)
-const unlockDate = new Date("2026-02-14T00:00:00-08:00");
+const unlockDate = new Date();
+
 
 
 
